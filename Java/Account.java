@@ -1,6 +1,5 @@
 package Java;
-
-class Account {
+class Accountt {
     Integer id;
     String name;
     String document;
